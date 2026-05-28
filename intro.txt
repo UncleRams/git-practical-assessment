@@ -1,0 +1,3 @@
+Name: Ditheto Mashiane
+Course: DOP361
+Section: First Commit Practical

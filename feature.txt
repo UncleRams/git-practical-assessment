@@ -1,0 +1,2 @@
+Feature Idea:
+Add a dashboard that monitors server deployment.
